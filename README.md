@@ -46,3 +46,15 @@ A full-stack web application for managing personalized diet plans, tracking food
 1. Clone this repository:
    ```bash
    git clone https://github.com/amlelgedawy/Nutritionsystemmm.git
+   ## 📊 Diagrams
+
+The following diagrams are included as part of the system documentation, available on Overleaf:
+
+- **Entity-Relationship Diagram (ERD)**
+- **UML Class Diagram (with associations and inheritance)**
+
+You can view both diagrams in the Overleaf report at the link below:
+
+🔗 [Overleaf Project (System Documentation)](https://www.overleaf.com/9336395463bvzrvjxbkhpq#8fe82e)
+
+
